@@ -27,5 +27,17 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the Repository**  
    Clone this repository to your local machine using the following command:
    ```sh
+   1. 
    git clone https://github.com/zer0dayexplo1t/HumanizeGPT.git
+
+   2.
    cd gpt-humanizer
+
+   3.
+   open shell in the directory
+   
+   4.
+   pip install -r requirements.txt
+
+   5.
+   python gpt-humanizer.py
