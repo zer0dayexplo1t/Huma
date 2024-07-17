@@ -9,10 +9,6 @@ Enjoy!
 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Acknowledgments](#acknowledgments)
 
 ## Prerequisites
 
